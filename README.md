@@ -1,2 +1,2 @@
-# kowi_page
+# kowi_page UI
 
